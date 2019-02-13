@@ -1,0 +1,10 @@
+Damos click en el botón de “Start a Project”
+En este paso se crea el repositorio, le damos un nombre (practica1_fdp), una descripción einicializamos un README, posteriormente damos click a “Create repository"
+Damos click en el botón de “Create new file”
+Crearemos un archivo llamado Datos, y en la primera línea agregaremos nuestro nombre.
+En la sección de Commit new file, haremos una explicación del archivo creado,posteriormente damos click al botón de Commit new file.
+Con esto habremos creado un nuevo archivo en nuestro repositorio, la acción de hacercommit es indicarle al Control de versiones que hemos terminado una nuevamodificación, dando una breve explicación Al momento de hacer el commit, nuestroproyecto se encuentra en un nuevo estado. En la pantalla principal del repositorio sepuede ver la lista de archivos en nuestro repositorio con la explicación del commit que agregó o modificó a ese archivo
+Subiremos dos imágenes locales (escudo de la facultad y de la universidad) a nuestro
+repositorio, dando click en el botón de “Upload files”
+Seleccionamos los dos archivos de nuestro equipo y hacemos el commit, explicando los
+archivos agregados. 
